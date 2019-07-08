@@ -1,4 +1,5 @@
 # talk
+CUI based communication program in C lang
 ## Usage
 chatserver.c : "./chatserver"
 chatclient.c : "./chatclient address username"
